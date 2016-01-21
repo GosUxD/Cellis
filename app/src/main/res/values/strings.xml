@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyStory</string>
+    <string name="API_KEY">AIzaSyAjbWq2akVKu4KchsT5bqJqE9-FwBCOZTA</string>
+    <string name="login_screen_login_button_text">Log In</string>
+    <string name="login_screen_forgot_pass_text">Forgot your password?</string>
+    <string name="login_screen_signup_text">Need an account? <u>Sign up</u></string>
+    <string name="app_logo_name">Cellos</string>
+    <string name="login_screen_login_text">Already have an account? <u>Log In</u></string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
